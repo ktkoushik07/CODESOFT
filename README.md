@@ -1,5 +1,5 @@
 
-<h1>CODESOFT INTERSHIP 1 : C++ </h1>
+<h1>CODSOFT INTERSHIP 1 : C++ </h1>
 
 <h2>1.  NUMBER GUESSING GAME :</h2>  <h3>Create a program that generates a random number and asks the
  user to guess it. Provide feedback on whether the guess is too
